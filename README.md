@@ -1,1 +1,2 @@
-# madlibs
+# Madlibs
+Mad Libs is a word game created by Leonard Stern and Roger Price. It consists of one player prompting others for a list of words to substitute for blanks in a story before reading aloud. The game is frequently played as a party game or as a pastime. It can be categorized as a phrasal template game.

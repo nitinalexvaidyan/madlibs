@@ -1,5 +1,5 @@
-# This is a simple python script to mimic the mad libs game.and# 
-# Madlibs using string concatenation
+# This is a simple python script to mimic the mad libs game. 
+# Madlibs using string concatenation is used in the script. 
 print("This is a mad libs game. The topic is - 'The Exciting Cricket Match'. Please input the data based on something related to cricket.")
 
 print("Please give the inputs based on the prompts")
