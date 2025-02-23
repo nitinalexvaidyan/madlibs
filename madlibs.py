@@ -1,6 +1,7 @@
 # This is a simple python script to mimic the mad libs game.and# 
 # Madlibs using string concatenation
 print("This is a mad libs game. The topic is - 'The Exciting Cricket Match'. Please input the data based on something related to cricket.")
+
 print("Please give the inputs based on the prompts")
 adj1 = input("Adjective: ")
 fav_team_name = input("Favourite Team Name: ")
@@ -25,8 +26,5 @@ The first batsman walked onto the field, holding a {adj3} bat. The bowler ran in
 {per_name} swung the bat and hit it straight to the {fld_pos} for a {num1}-run shot! The game was intense, and the {fav_team_name} needs {num2} runs in the last over.\
 The final ball was bowled, and {fav_ckt_name} {vrb1} it for a {num3}! The crowd {vrb2} in excitement, and the team {vrb3} with joy.\
 It was truly a {adj5} match to remember!"""
+# Final generated text
 print(madlib_txt)
-
-
-
-
