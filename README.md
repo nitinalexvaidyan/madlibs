@@ -1,12 +1,12 @@
-# Mad Libs Cricket Game - Python Script
+# __Mad Libs Cricket Game - Python Script__
 A fun, interactive Mad Libs game where players provide words based on cricket-related prompts to generate a hilarious and exciting match commentary! About the game, Mad Libs is a word game created by Leonard Stern and Roger Price. It consists of one player prompting others for a list of words to substitute for blanks in a story before reading aloud. The game is frequently played as a party game or as a pastime. It can be categorized as a phrasal template game.
 
-How It Works
+***How It Works***
 The script prompts the user for various cricket-related words (adjectives, nouns, verbs, player names, etc.).
 Once all inputs are provided, it dynamically generates a funny cricket commentary using the user's responses.
 The final story is displayed in a playful and unpredictable way based on the input words!
 
-Sample
+***Sample***
 This is a mad libs game. The topic is - 'The Exciting Cricket Match'. 
 Please input the data based on something related to cricket.
 
@@ -28,7 +28,7 @@ Some verb in past tense: cheered
 Some verb in past tense: celebrated
 Adjective: unforgettable
 
-Generated Story:
+***Generated Story:***
 It was a thrilling day at the stadium as India faced off against Australia. 
 The crowd was loud, cheering loudly for their favorite fans. 
 The first batsman walked onto the field, holding a shiny bat. 
@@ -40,11 +40,11 @@ The crowd cheered in excitement, and the team celebrated with joy.
 It was truly an unforgettable match to remember!
 
 
-Features
+***Features***
 Fun and interactive cricket-based word game
 Uses Python string formatting to generate custom stories
 Generates a unique and unpredictable match commentary every time
 Beginner-friendly and easy to modify
 
-License
+***License***
 This project is open-source under the  Apache License.
